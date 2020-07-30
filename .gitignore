@@ -27,4 +27,6 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+commands_history.txt
+github token.txt
 
